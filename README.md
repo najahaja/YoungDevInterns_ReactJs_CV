@@ -20,9 +20,9 @@ To get started with this project, follow these steps:
        git clone https://github.com/your-username/your-repository-name.git
 2. **Navigate to the Project Directory**
 
-      cd your-repository-name
+       cd your-repository-name
 3. **Install Dependencies**
-
+      ```bash
       npm install
 4. **Run the Development Server**
   
