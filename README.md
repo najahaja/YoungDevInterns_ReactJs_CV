@@ -17,10 +17,10 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
        
-       git clone https://github.com/your-username/your-repository-name.git
+       git clone (https://github.com/najahaja/YoungDevInterns_ReactJs_CV)  
 2. **Navigate to the Project Directory**
 
-       cd your-repository-name
+       cd YoungDevInterns_ReactJs_CV
 3. **Install Dependencies**
       ```bash
       npm install
